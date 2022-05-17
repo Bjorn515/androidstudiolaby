@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Trains</string>
+    <string name="title_activity_test">test</string>
+
+    <string name="train">Train</string>
+    <string name="trains">Trains</string>
+    <string name="shoot">Shoot</string>
+    <string name="title_activity_choose_train">choose_train</string>
+    <string name="resume">Activity is resumed</string>
+</resources>

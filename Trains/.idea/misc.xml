@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jedre/AndroidStudioProjects/Trains/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2265" />
+        <entry key="..\:/Users/jedre/AndroidStudioProjects/Trains/app/src/main/res/drawable-v24/red_progress.xml" value="0.1" />
+        <entry key="..\:/Users/jedre/AndroidStudioProjects/Trains/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Users/jedre/AndroidStudioProjects/Trains/app/src/main/res/layout/activity_choose_train.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/jedre/AndroidStudioProjects/Trains/app/src/main/res/layout/activity_game.xml" value="0.25" />
+        <entry key="..\:/Users/jedre/AndroidStudioProjects/Trains/app/src/main/res/layout/activity_main.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/jedre/Desktop/Trains/app/src/main/res/drawable-v24/grey_progress.xml" value="0.1" />
+        <entry key="..\:/Users/jedre/Desktop/Trains/app/src/main/res/drawable-v24/rainbow_progress.xml" value="0.1" />
+        <entry key="..\:/Users/jedre/Desktop/Trains/app/src/main/res/drawable-v24/red_progress.xml" value="0.1" />
+        <entry key="..\:/Users/jedre/Desktop/Trains/app/src/main/res/layout/activity_choose_train.xml" value="0.264" />
+        <entry key="..\:/Users/jedre/Desktop/Trains/app/src/main/res/layout/activity_game.xml" value="0.1" />
+        <entry key="..\:/Users/jedre/Desktop/Trains/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/jedre/Desktop/Trains/app/src/main/res/layout/train_card.xml" value="0.22826086956521738" />
+        <entry key="app/src/main/res/drawable-v24/green_progress.xml" value="0.2135" />
+        <entry key="app/src/main/res/drawable-v24/greenprogress.xml" value="0.245" />
+        <entry key="app/src/main/res/drawable-v24/grey.xml" value="0.245" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.267" />
+        <entry key="app/src/main/res/drawable-v24/rainbow_progress.xml" value="0.245" />
+        <entry key="app/src/main/res/drawable-v24/red_progress.xml" value="0.245" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.267" />
+        <entry key="app/src/main/res/layout/activity_android.xml" value="0.31354166666666666" />
+        <entry key="app/src/main/res/layout/activity_choose_train.xml" value="0.15894039735099338" />
+        <entry key="app/src/main/res/layout/activity_foo.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/activity_game.xml" value="0.18848520914713537" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.284698486328125" />
+        <entry key="app/src/main/res/layout/activity_test.xml" value="0.20625" />
+        <entry key="app/src/main/res/layout/content_android.xml" value="0.1578125" />
+        <entry key="app/src/main/res/layout/content_choose_train.xml" value="0.31354166666666666" />
+        <entry key="app/src/main/res/layout/content_test.xml" value="0.20625" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.20625" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.20625" />
+        <entry key="app/src/main/res/layout/game.xml" value="0.27410829046056284" />
+        <entry key="app/src/main/res/layout/train_card.xml" value="0.10074462890624997" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.267" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
